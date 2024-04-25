@@ -1,0 +1,1 @@
+This PowerShell script extracts email addresses from a text file and saves them to a CSV. It checks for the existence of the source file, reads its content, and extracts emails from it and puts them into a csv file 
